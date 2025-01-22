@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure Coud and DevOps**
 
-- 👯 I’m looking to collaborate on **beginnerfriendly Cloud projects**
+- 👯 I’m looking to collaborate on **Cloud projects**
 
 - 💬 Ask me about **Powershell, Python and Admin-related topics**
 
