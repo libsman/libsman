@@ -27,4 +27,4 @@ Microsoft Copilot · Copilot Studio · GitHub Copilot · Copilot CLI
 
 ### 📫 Reach me
 
-**liban12345@outlook.de* · Based in Limburg, Germany
+**liban@t-online.de* · Based in Limburg, Germany
