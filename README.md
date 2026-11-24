@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liban</h1>
-<h3 align="center">Senior Microsoft Consultant & Cloud Architect · Azure · Entra ID · DevOps · Full-Stack</h3>
+<h3 align="center">Cloud Architect | Microsoft Azure & M365 | Security, IAM & Automation</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=libsman&label=Profile%20views&color=2980b9&style=flat" alt="libsman" />
@@ -10,17 +10,18 @@
 ### 🧰 What I work with
 
 **Cloud & Infrastructure**
-Azure HCI · Azure Virtual Desktop · Windows Server · Active Directory · Entra ID (Hybrid & Cloud) · Exchange Online · Azure SQL · Bicep (IaC)
+Microsoft Azure · Azure Local (HCI) · Azure Virtual Desktop · Windows Server · Microsoft 365 · Exchange Online · Azure SQL · Bicep (IaC)
 
-**Identity & Security**
-MFA · App Registrations · Enterprise Applications · SSO · MSAL · OAuth 2.0 · PKI · BSI
+**Identity & Access Management (IAM)**
+Microsoft Entra ID · Active Directory · Hybrid Identity · Conditional Access · MFA · PIM · SSO · OAuth 2.0 · OpenID Connect · MSAL
 
-**Development**
-Vue.js · Node.js · Docker · Microsoft Graph API · Power Automate · PAC CLI · PowerShell · Python
+**Security & Governance**
+Zero Trust · RBAC · Microsoft Intune · PKI · BSI IT-Grundschutz · Microsoft 365 Governance
 
-**AI & Copilot**
-Microsoft Copilot · Copilot Studio · GitHub Copilot · Copilot CLI
+**Automation & DevOps**
+PowerShell · Python · Microsoft Graph API · Azure Automation · Power Automate · PAC CLI · GitLab CI/CD · Docker
 
----
+**Development & AI**
+Vue.js · Node.js · Microsoft Copilot · Copilot Studio · GitHub Copilot · Copilot CLI
 
 ---
